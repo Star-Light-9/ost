@@ -1,3 +1,5 @@
+iiiiiiii world 
 ihi 
-thuis is new file
+conflict
+thuis is new file
 
